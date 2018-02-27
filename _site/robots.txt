@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://swbn.github.io/swbn.github.io/sitemap.xml
+Sitemap: https://swbn.github.io/sitemap.xml
